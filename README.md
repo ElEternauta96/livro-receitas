@@ -3,4 +3,7 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Estrogonofe de Frango;
-- Feijoada
+- Feijoada;
+- Arroz Branco Soltinho;
+- Couve Refogada;
+- Pudim de Leite sem Furinhos
